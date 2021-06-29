@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <connectionStrings>Data Source=   Your-PC\LevelUpMedical  ;Initial Catalog = LevelUpDrug ;User ID=sa;Password=Level123;MultipleActiveResultSets=True</connectionStrings>
+  <DataSource>LevelTest</DataSource>
+</configuration>
